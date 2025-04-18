@@ -1,0 +1,3 @@
+Alternativamente, é possível criar uma nova branch separadamente e inserir arquivos diretamente nela, sem gerar um pull request.  
+
+Explore essa possibilidade, acesse a página inicial, clique no link de branches, crie uma nova branch e adicione arquivos diretamente na branch (o procedimento é similar ao que já vimos nos passos acima).  
